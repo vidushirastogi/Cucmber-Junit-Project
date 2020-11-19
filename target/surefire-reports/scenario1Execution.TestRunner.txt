@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: scenario1Execution.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.662 sec - in scenario1Execution.TestRunner
